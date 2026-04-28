@@ -33,10 +33,12 @@ float: left;
 width:50%;
 margin-top:30px;
 }
-.fieldset {
+fieldset {
   background-color:black;
-color:white;
-font-color:white;}
+color:white;}
+legend {
+  padding:2px;
+  border:1px solid white;}
 
 
 
