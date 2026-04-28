@@ -33,6 +33,9 @@ float: left;
 width:50%;
 margin-top:30px;
 }
+.Interview {
+  float: middle;
+  margin-top:30px;}
 fieldset {
   background-color:black;
 color:white;}
