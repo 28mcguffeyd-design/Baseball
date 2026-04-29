@@ -35,18 +35,20 @@
     <li>Fielding With a Rawlings Rev1x Glove</li>
   </ul>
   <fieldset>
-     <form action="/submit-your-choice" method="post">
     <legend> Is the Mets Francisco Lindor or Clevelands Fracisco Lindor better?</legend>
+        <form action="/submit-vote" method="post">
     <label> 
       <input id="Mets Lindor"
               type="radio" 
-        name="Mets Lindor-Cleveland Lindor"
-              value="Mets Lindor" 
-        checked> Mets Lindor </label>
-    <label> <input id="Cleveland Lindor" 
+        name="Lindor-Choice"
+              value="Mets Lindor"> Mets Lindor 
+    </label><br>
+    <label> 
+      <input id="Cleveland Lindor" 
              type="radio"
-              name="Mets Lindor-Cleveland Lindor"
-             value="Cleveland Lindor" checked> Cleveland Lindor </label>
+              name="Lindor-Choice"
+             value="Cleveland Lindor"> Cleveland Lindor 
+    </label><br><br>
     <button type="submit">submit response</button>
   </form>
   </fieldset>
