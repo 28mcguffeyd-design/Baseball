@@ -45,5 +45,6 @@ legend {
 li {
   color: Blue; /*text-color*/
 }
-ul{ padding-left: 0, padding-right: 0;}
+ul{ padding-left: 0, padding-right: 0;
+   margin:auto; }
 
