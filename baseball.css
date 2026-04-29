@@ -42,7 +42,10 @@ color:white;}
 legend {
   padding:2px;
   border:1px solid white;}
-li {
+.Lindy12 {
   color: Blue; /*text-color*/
+  text-align: center;
+  padding-right: 450px;
+  padding-left: 450px;
 }
 
