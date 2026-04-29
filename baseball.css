@@ -42,7 +42,7 @@ color:white;}
 legend {
   padding:2px;
   border:1px solid white;}
-li span{
+li {
   color: Blue; /*text-color*/
 }
 
