@@ -50,5 +50,6 @@ legend {
 }
 h2 {color:white;}
 .bat1 { 
-  float-left:100px;}
+  float:left;
+  left:100px;}
 
