@@ -40,14 +40,13 @@ fieldset {
 background-color: black;
 color:white;
   position: relative;
-  text-aling:center;
-  margin-top:100px;
+ 
 }
 legend {
   padding:2px;
   border:1px solid white;}
 .Lindy12 {
-  color: white; /*text-color*/
+  color: white;
   text-align: center;
   padding-right: 450px;
   padding-left: 450px;
