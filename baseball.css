@@ -40,7 +40,8 @@ fieldset {
 background-color: black;
 color:white;
   position: relative;
- 
+  width:50%;
+  text-align:center; 
 }
 legend {
   padding:2px;
