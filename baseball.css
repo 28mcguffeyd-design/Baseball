@@ -37,11 +37,13 @@ margin-top:30px;
   float: up;
   margin-top:30px;}
 fieldset {
-background-color:black;
-color:white;
-float:down;
-position:relative;
-down:100px;}
+background-color: black;
+color: white;
+float: down;
+position: relative;
+down: 100px;
+text-align: center;
+}
 legend {
   padding:2px;
   border:1px solid white;}
