@@ -40,6 +40,7 @@ fieldset {
 background-color: black;
 color:white;
   position: relative;
+  display:inline-block;
   width:50%;
 }
 legend {
