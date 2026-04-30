@@ -39,6 +39,8 @@ margin-top:30px;
 fieldset {
 background-color: black;
 color:white;
+  text-aling:center;
+  margin-top:100px;
 }
 legend {
   padding:2px;
