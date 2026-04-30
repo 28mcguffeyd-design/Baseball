@@ -38,9 +38,9 @@ margin-top:30px;
   margin-top:30px;}
 fieldset {
 background-color: black;
-color: white;
-position: relative;
-text-align: center;
+color:white;
+position: absolute;
+text-align:center;
   top: 120px;
 }
 legend {
