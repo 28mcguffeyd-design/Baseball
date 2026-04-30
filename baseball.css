@@ -39,7 +39,7 @@ margin-top:30px;
 fieldset {
 background-color: black;
 color:white;
-position: absolute;
+position:relative;
 text-align:center;
   top: 120px;
 }
