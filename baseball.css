@@ -41,8 +41,8 @@ background-color: black;
 color: white;
 position: relative;
 text-align: center;
-  top: 50px;
-  left: 20px;
+  top: 100px;
+  left: -50px;
 }
 legend {
   padding:2px;
