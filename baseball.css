@@ -38,11 +38,11 @@ margin-top:30px;
   margin-top:30px;}
 fieldset {
 background-color: black;
-color:white;
+color: white;
   position: relative;
-  display:inline-block;
-  float:down;
-  width:50%;
+  display: inline-block;
+  float: down;
+  width: 50%;
 }
 legend {
   padding:2px;
