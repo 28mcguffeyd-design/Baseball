@@ -41,7 +41,7 @@ background-color: black;
 color: white;
   position: relative;
   display: inline-block;
-  text-align:center;
+  text-align:left;
   width: 50%;
   margin-top: 200px;
 }
