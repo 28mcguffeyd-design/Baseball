@@ -40,7 +40,7 @@ fieldset {
 background-color: black;
 color: white;
   position: relative;
-  left:400px;
+  left:-400px;
   display: inline-block;
   width: 50%;
   margin-top: 200px;
