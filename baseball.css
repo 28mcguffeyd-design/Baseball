@@ -41,6 +41,7 @@ background-color: black;
 color:white;
   position: relative;
   display:inline-block;
+  float:down;
   width:50%;
 }
 legend {
