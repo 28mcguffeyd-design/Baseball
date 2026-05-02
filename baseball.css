@@ -54,6 +54,7 @@ legend {
 }
 h2 {color:white;}
 .bat { 
-
+position:relative;
+  float:left;
 }
 
